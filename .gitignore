@@ -1,0 +1,21 @@
+# Git Ignore - Files that don't have to be upload / updated
+# Website: https://github.com/DagazWiggin/LearnDiscordBotDev
+#
+# 
+
+# Ignore node_modules that are auto-generated
+# This should be generated again using npm-install
+
+node_modules/
+jspm_packages/
+
+#
+# Do NOT upload/update runtime generated archives
+#
+
+build/Release
+web_modules/
+
+# Trashy ---
+*.tsbuildinfo
+.vscode-test

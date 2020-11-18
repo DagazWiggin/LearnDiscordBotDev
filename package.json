@@ -1,0 +1,19 @@
+{
+  "name": "howtobot",
+  "version": "0.0.1",
+  "description": "Learning how to create a discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DagazWiggin/LearnDiscordBotDev.git"
+  },
+  "author": "DagazWiggin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DagazWiggin/LearnDiscordBotDev/issues"
+  },
+  "homepage": "https://github.com/DagazWiggin/LearnDiscordBotDev#readme"
+}
